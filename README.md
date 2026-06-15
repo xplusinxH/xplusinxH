@@ -70,6 +70,6 @@ engineering_style:
 
 ### BUILD | TEST | ITERATE | COMPETE
 
-![Profile Views](https://komarev.com/ghpvc/?username=xplusinxH&style=flat-square&color=1f6feb)
+## Connect With Me
 
-</div>
+[![X](https://img.shields.io/badge/X-@xplusin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xplusin)
