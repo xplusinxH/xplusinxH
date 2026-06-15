@@ -53,20 +53,19 @@ engineering_style:
 
 ## Competition Record
 
-### 2025-2026
+### 2026
 
 **VEX Asia Open - First Prize**  
 
-### 2024
-
-**RoboCup China Competition, Advanced Vision - National First Prize**  
-
-### National Robotics Competitions
+### 2025
 
 **24th ROBOCON "Flying Dunk" Competition - National Top 8**  
 **Volleyball Challenge - National Champion**  
 **Bionic Legged Robot Off-Road & Racing Competition - National Second Prize**
 
+### 2024
+
+**RoboCup China Competition, Advanced Vision - National First Prize**  
 
 
 <div align="center">
