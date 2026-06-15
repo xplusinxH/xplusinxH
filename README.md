@@ -21,10 +21,8 @@
 ## Mission Profile
 
 I am a full-stack robotics developer focused on turning perception into
-reliable physical action.
-
-My work connects **robot vision**, **motion control**, **mechanical design**,
-and **embedded hardware** into complete robotic systems.
+reliable physical action.My work connects **robot vision**, **motion control**
+, **mechanical design**,and **embedded hardware** into complete robotic systems.
 
 ## Current Coordinates
 
