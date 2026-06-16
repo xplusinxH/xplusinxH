@@ -57,7 +57,8 @@ engineering_style:
 
 ### 2025
 
-**24th ROBOCON** 
+**24th ROBOCON**
+
 **"Flying Dunk" Competition - National Top 8**  
 **Volleyball Challenge - National Champion**  
 **Bionic Legged Robot Off-Road & Racing Competition - National Second Prize**
