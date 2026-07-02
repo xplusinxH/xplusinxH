@@ -5,7 +5,7 @@
 ### ROBOTICS SYSTEMS | PERCEPTION | MOTION | HARDWARE
 
 <p>
-  hi, i'm xplusinxH, a junior undergraduate. I foucs on build robots from mechanical structure to intelligent motion.
+  hi, i'm xplusinxH, a junior undergraduate from Xi'an jiaotong univercity. I foucs on build robots from mechanical structure to intelligent motion.
 </p>
 
 <p>
